@@ -1465,34 +1465,6 @@ body {
 .cid-scUdRNjFnL .dropdown-item:hover {
   color: #4284df;
 }
-.cid-seTthJLNUW {
-  padding-top: 0px;
-  padding-bottom: 120px;
-}
-.cid-seTthJLNUW .media-content .btn-bgr {
-  z-index: 0;
-}
-.cid-seTthJLNUW .mbr-overlay {
-  background: linear-gradient(90deg, #0c57bf, #8120c9);
-}
-@media (min-width: 992px) {
-  .cid-seTthJLNUW .media-content {
-    -webkit-flex-basis: auto;
-    flex-basis: auto;
-  }
-}
-@media (max-width: 991px) {
-  .cid-seTthJLNUW {
-    text-align: center !important;
-  }
-  .cid-seTthJLNUW .mbr-text {
-    text-align: center;
-  }
-}
-.cid-seTthJLNUW .media-container-row {
-  justify-content: flex-start;
-  -webkit-justify-content: flex-start;
-}
 .cid-seTuj8PzGR {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1708,14 +1680,70 @@ body {
 .cid-uLFgCKWVTS UL {
   text-align: left;
 }
-.cid-uLFg4mElsR {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+.cid-uLKn7FXh3w {
+  background-image: url("../../../assets/images/background6.jpg");
+}
+.cid-uLKn7FXh3w .text-content {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.cid-uLKn7FXh3w .text-content .btn-bgr {
+  z-index: 0;
+}
+.cid-uLKn7FXh3w .mbr-overlay {
+  background: linear-gradient(90deg, #d6173f, #4284df);
+}
+.cid-uLKn7FXh3w h3 {
+  color: #000000;
+  font-weight: 300;
+}
+.cid-uLKn7FXh3w p {
+  color: #464646;
+}
+.cid-uLKn7FXh3w h2 {
+  color: #000000;
+}
+.cid-uLKn7FXh3w .media-container-row {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+@media (max-width: 767px) {
+  .cid-uLKn7FXh3w .media-container-row {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
+.cid-uLKn7FXh3w .text-content {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  width: 50%;
   background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-uLKn7FXh3w .text-content {
+    width: 80%;
+  }
+}
+@media (max-width: 599px) {
+  .cid-uLKn7FXh3w .text-content {
+    width: 100%;
+  }
+}
+.cid-uLKn7FXh3w .media-content {
+  padding-right: 1.5rem;
+  padding-left: 0;
+}
+.cid-uLKn7FXh3w .mbr-section-btn {
+  margin-left: -0.8rem;
+}
+@media (max-width: 767px) {
+  .cid-uLKn7FXh3w .mbr-text {
+    text-align: center;
+  }
 }
 .cid-uLFYo5S8g7 {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #f9f9f9;
 }
 .cid-uLFYo5S8g7 .mbr-text {
@@ -1772,7 +1800,7 @@ body {
   }
 }
 .cid-uLG6MtdJHT {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #f9f9f9;
 }
