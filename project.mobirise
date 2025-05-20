@@ -68,6 +68,8 @@
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "witsec-mailform": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "mbrsiteDomain": "0p6vgozuja",
     "usedWebp": false,
     "cookiesAlert": false
