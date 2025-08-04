@@ -1680,6 +1680,45 @@ body {
 .cid-uLFgCKWVTS UL {
   text-align: left;
 }
+.cid-uSUy4bPuMj {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-uSUy4bPuMj .card {
+  padding: 1rem 1rem 3rem 1rem;
+}
+.cid-uSUy4bPuMj .card-img {
+  padding-bottom: 2rem;
+}
+.cid-uSUy4bPuMj .mbr-text {
+  color: #767676;
+}
+.cid-uSUy4bPuMj span {
+  font-size: 14px;
+  color: #ffffff;
+}
+.cid-uSUy4bPuMj .mbr-section-btn {
+  margin-left: 0;
+}
+.cid-uSUy4bPuMj .date span {
+  display: inline-block;
+  background-color: #8120c9;
+  padding: 0.2rem 1rem;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  max-width: 90%;
+  overflow: hidden;
+}
+@media (max-width: 767px) {
+  .cid-uSUy4bPuMj .card-title {
+    text-align: center;
+  }
+  .cid-uSUy4bPuMj p.mbr-text,
+  .cid-uSUy4bPuMj p.date {
+    text-align: center;
+  }
+}
 .cid-uLKn7FXh3w {
   background-image: url("../../../assets/images/background6.jpg");
 }
@@ -1740,6 +1779,14 @@ body {
   .cid-uLKn7FXh3w .mbr-text {
     text-align: center;
   }
+}
+.cid-uN0L6g7F9b {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #26466c, #161616);
+}
+.cid-uN0L6g7F9b .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-uLFYo5S8g7 {
   padding-top: 90px;
@@ -1857,13 +1904,38 @@ body {
     font-size: 3rem;
   }
 }
-.cid-uN0L6g7F9b {
+.cid-uSUz9eazdp {
   padding-top: 90px;
-  padding-bottom: 0px;
-  background: linear-gradient(45deg, #26466c, #161616);
+  padding-bottom: 90px;
+  background-color: #2a0845;
+  background: linear-gradient(90deg, #2a0845, #0c57bf);
 }
-.cid-uN0L6g7F9b .btn {
-  margin: 0 0 .5rem 0;
+.cid-uSUz9eazdp .mbr-overlay {
+  background: linear-gradient(90deg, #efefef, #1ec5bf);
+}
+.cid-uSUz9eazdp h4,
+.cid-uSUz9eazdp h5 {
+  text-align: center;
+}
+.cid-uSUz9eazdp p {
+  text-align: center;
+}
+.cid-uSUz9eazdp .card-box {
+  padding: 1.5rem;
+  background-color: rgba(255, 255, 255, 0.2);
+  text-align: center;
+}
+.cid-uSUz9eazdp .card-img {
+  font-size: 3rem;
+}
+.cid-uSUz9eazdp .date span {
+  display: inline-block;
+  background-color: #8120c9;
+  padding: 0.5rem 1rem;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  max-width: 90%;
+  overflow: hidden;
 }
 .cid-sdR1P3kTwQ {
   padding-top: 5rem;
