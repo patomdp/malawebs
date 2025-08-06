@@ -1,14 +1,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://malawebs.web.app/index.html</loc>
+		<loc>https://malawebs.com/index.html</loc>
 	</url>
 	<url>
-		<loc>https://malawebs.web.app/valoracion.html</loc>
+		<loc>https://malawebs.com/valoracion.html</loc>
 	</url>
 	<url>
-		<loc>https://malawebs.web.app/landing-site.html</loc>
+		<loc>https://malawebs.com/landing-site.html</loc>
 	</url>
 	<url>
-		<loc>https://malawebs.web.app/formulario.html</loc>
+		<loc>https://malawebs.com/formulario.html</loc>
+	</url>
+	<url>
+		<loc>https://malawebs.com/privacy.html</loc>
 	</url>
 </urlset>
