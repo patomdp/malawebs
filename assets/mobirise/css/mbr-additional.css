@@ -2113,7 +2113,7 @@ body {
 }
 .cid-seTj661fbx .column-content {
   padding-top: 120px;
-  padding-bottom: 135px;
+  padding-bottom: 105px;
   background-color: #ffffff;
   width: 100%;
   float: right;
@@ -2186,26 +2186,9 @@ body {
     height: 33rem;
   }
 }
-#custom-html-33 {
-  /* Type valid CSS here */
-}
-#custom-html-33 .custom-shape-divider-bottom-1754909450 {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-  line-height: 0;
-}
-#custom-html-33 .custom-shape-divider-bottom-1754909450 svg {
-  position: relative;
-  display: block;
-  width: calc(101.3%);
-  height: 49px;
-  transform: rotateY(180deg);
-}
-#custom-html-33 .custom-shape-divider-bottom-1754909450 .shape-fill {
-  fill: #000000;
+.cid-seTj661fbx .mbr-text,
+.cid-seTj661fbx .mbr-section-btn {
+  text-align: left;
 }
 .cid-uLF99dkz6T {
   padding-top: 30px;
